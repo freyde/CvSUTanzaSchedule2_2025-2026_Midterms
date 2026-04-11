@@ -1,0 +1,10 @@
+﻿Soft conflicts of AY25-26_SecondSemester[MIDTERM].fet
+Generated with FET 7.7.1 on 4/11/26 11:13 PM
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
